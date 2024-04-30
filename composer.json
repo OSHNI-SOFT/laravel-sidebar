@@ -25,8 +25,8 @@
     "illuminate/view": "~10.0|~11.0"
   },
   "require-dev": {
-    "../../vendor/mockery/mockery": "^1.6",
-    "../../vendor/phpunit/phpunit": "^10.4"
+      "mockery/mockery": "^1.6",
+      "phpunit/phpunit": "^10.4"
   },
   "autoload": {
     "psr-4": {
